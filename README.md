@@ -7,6 +7,8 @@ The [Modify and evolve awesome](http://codepen.io/mrjopino/pen/tvbqa): revive a 
 
 hey [download the license here](https://github.com/bullgit/MEA/blob/master/MEA.md). 
 
+[![MEA](https://s3-us-west-2.amazonaws.com/s.cdpn.io/84557/MEA.png)](https://s3-us-west-2.amazonaws.com/s.cdpn.io/84557/MEA.png)
+
 -------------
 
 Copyright, 2014 by [José Pino](http://twitter.com/mrjopino)
