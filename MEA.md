@@ -16,3 +16,7 @@ You can take a dead code and give you a new life.
 ## 3. Awesome
 
 The improvement of the code is a cost-free way to otherwise it will not license a MEA.
+
+## 4. collaborator
+
+Reviving a dead code means that you are a collaborator awesome.
