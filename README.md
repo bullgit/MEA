@@ -9,6 +9,6 @@ hey [download the license here](https://github.com/bullgit/MEA/blob/master/MEA.m
 
 -------------
 
-2014 by [José Pino](http://twitter.com/mrjopino)
+Copyright, 2014 by [José Pino](http://twitter.com/mrjopino)
 
 -------------
