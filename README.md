@@ -1,7 +1,7 @@
 MEA
 ===
 
-The [Modify and evolve awesome](http://codepen.io/mrjopino/pen/tvbqa): revive a code.
+The [Modify and evolve awesome](http://mrjopino.github.io/MEA/): revive a code.
 
 ## Download
 
