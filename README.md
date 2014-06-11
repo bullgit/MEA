@@ -1,7 +1,7 @@
 MEA
 ===
 
-The [Modify and evolve awesome](http://mrjopino.github.io/MEA/): revive a code.
+The [Modify and evolve awesome](http://jofpin.github.io/MEA/): revive a code.
 
 ## Download
 
@@ -13,6 +13,6 @@ hey [download the license here](https://github.com/bullgit/MEA/blob/master/MEA.m
 
 -------------
 
-Copyright, 2014 by [José Pino](http://twitter.com/mrjopino)
+Copyright, 2014 by [José Pino](http://twitter.com/jofpin)
 
 -------------
